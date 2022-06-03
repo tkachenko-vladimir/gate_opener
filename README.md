@@ -1,2 +1,2 @@
-# gate_opener
- 
+Hardware: SIM800C
+Firmware: embedded AT
